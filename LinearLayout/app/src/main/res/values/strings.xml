@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Linear Frame Layout</string>
+    <string name="text_view1">This is a text view</string>
+    <string name="click_me">Click Me!</string>
+    <string name="to">To</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+</resources>
